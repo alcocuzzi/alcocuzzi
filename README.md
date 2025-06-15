@@ -9,9 +9,9 @@ I’m all about practical innovation, solutions that actually help teams move fa
 If I have do to it twice, I’m probably already thinking about how to script it.
 
 ## Some info about me
-- Based in Ireland
-- Team player | Fast learner | Customer-obsessed | Obsessed with doing things better | Big picture thinker | I say `No` to status-quo
-- Naturally skilled on collaboration, teaching, and knowledge sharing
+* Based in Ireland
+* Team player | Fast learner | Customer-obsessed | Obsessed with doing things better | Big picture thinker | I say `No` to status-quo
+* Naturally skilled on collaboration, teaching, and knowledge sharing
 
 ## What I’m up to
 Few years ago, I created/maintain a container called `Mara` (Inspired on Hestio AWSH/Blox). It's an open-source container that bundles a bunch of open source tools to speed up the ops experience on AWS.
@@ -32,16 +32,16 @@ Check it out, give it a spin, and let me know what you think. PRs and feedback w
 * Security & IAM → Securing all the things, less is more.
 
 ## Proof I’ve been around the block
-✅ AWS Certified DevOps Engineer – Professional
-✅ AWS Certified Solutions Architect – Associate
-✅ AWS Certified SysOps Administrator – Associate
-✅ AWS Certified Cloud Practitioner
-✅ AWS Systems Manager Subject Matter Expert
-✅ CKAD: Certified Kubernetes Application Developer
-✅ HashiCorp Certified: Terraform Associate (003)
-✅ LFS142: Intro to Backstage (Linux Foundation)
-✅ Microsoft Certified: Azure Administrator Associate
-✅ MCSA: Windows Server 2012
+* ✅ AWS Certified DevOps Engineer – Professional
+* ✅ AWS Certified Solutions Architect – Associate
+* ✅ AWS Certified SysOps Administrator – Associate
+* ✅ AWS Certified Cloud Practitioner
+* ✅ AWS Systems Manager Subject Matter Expert
+* ✅ CKAD: Certified Kubernetes Application Developer
+* ✅ HashiCorp Certified: Terraform Associate (003)
+* ✅ LFS142: Intro to Backstage (Linux Foundation)
+* ✅ Microsoft Certified: Azure Administrator Associate
+* ✅ MCSA: Windows Server 2012
 
 ##  Expanding horizons
 * Developer Portals - Making internal dev experience better
@@ -52,6 +52,6 @@ Check it out, give it a spin, and let me know what you think. PRs and feedback w
 ## Let’s chat
 If you’re into automation, cloud, containers, or just building cool stuff, let’s connect:
 
-- Open an [issue](https://github.com/alcocuzzi/alcocuzzi/issues)
-- [Email Me](mailto:alcocuzzi@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/alcocuzzi)
+* Open an [issue](https://github.com/alcocuzzi/alcocuzzi/issues)
+* [Email Me](mailto:alcocuzzi@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/alcocuzzi)
