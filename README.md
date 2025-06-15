@@ -9,7 +9,7 @@ I’m all about practical innovation, solutions that actually help teams move fa
 If I have do to it twice, I’m probably already thinking about how to script it.
 
 ---
-## Some info about me
+## Some info about me
 * Based in Ireland
 * Team player | Fast learner | Customer-obsessed | Obsessed with doing things better | Big picture thinker | I say `No` to status-quo
 * Naturally skilled on collaboration, teaching, and knowledge sharing
