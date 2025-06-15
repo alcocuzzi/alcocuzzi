@@ -8,11 +8,13 @@ I’m all about practical innovation, solutions that actually help teams move fa
 
 If I have do to it twice, I’m probably already thinking about how to script it.
 
+---
 ## Some info about me
 * Based in Ireland
 * Team player | Fast learner | Customer-obsessed | Obsessed with doing things better | Big picture thinker | I say `No` to status-quo
 * Naturally skilled on collaboration, teaching, and knowledge sharing
 
+---
 ## What I’m up to
 Few years ago, I created/maintain a container called `Mara` (Inspired on Hestio AWSH/Blox). It's an open-source container that bundles a bunch of open source tools to speed up the ops experience on AWS.
 
@@ -22,6 +24,7 @@ The name was inspired on my Mother `Silvia Mara`, which was battling against dep
 
 Check it out, give it a spin, and let me know what you think. PRs and feedback welcome!
 
+---
 ## Tech I play mainly
 * Cloud → AWS
 * Containers & K8s → Docker | Kubernetes | ECS | EKS
@@ -31,6 +34,7 @@ Check it out, give it a spin, and let me know what you think. PRs and feedback w
 * Platform engineering → Backstage, OpsLevel, Port
 * Security & IAM → Securing all the things, less is more.
 
+---
 ## Proof I’ve been around the block
 * ✅ AWS Certified DevOps Engineer – Professional
 * ✅ AWS Certified Solutions Architect – Associate
@@ -43,12 +47,14 @@ Check it out, give it a spin, and let me know what you think. PRs and feedback w
 * ✅ Microsoft Certified: Azure Administrator Associate
 * ✅ MCSA: Windows Server 2012
 
+---
 ##  Expanding horizons
 * Developer Portals - Making internal dev experience better
 * Event driven systems
 * Contributing more to open source
 * Studying MSc in Software Design with Cloud Native Computing - TUS Ireland
 
+---
 ## Let’s chat
 If you’re into automation, cloud, containers, or just building cool stuff, let’s connect:
 
