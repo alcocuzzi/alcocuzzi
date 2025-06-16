@@ -1,6 +1,4 @@
-# Hey, I’m Augusto!
-
-Welcome, I'm glad you made it here!
+# Hey! I'm @alcocuzzi (Augusto de Lima Cocuzzi)
 
 I’m a tech enthusiast who loves building things that make life easier on daily basis. With 11+ years of experience designing secure, high-performing, and scalable cloud-native solutions, I spend most of my time working with cloud, containers, automation, and infrastructure as code.
 
@@ -9,14 +7,13 @@ I’m all about practical innovation, solutions that actually help teams move fa
 If I have do to it twice, I’m probably already thinking about how to script it.
 
 ---
-## Some info about me
-* Based in Ireland
+## Soft skills
 * Team player | Fast learner | Customer-obsessed | Obsessed with doing things better | Big picture thinker | I say `No` to status-quo
 * Naturally skilled on collaboration, teaching, and knowledge sharing
 
 ---
 ## What I’m up to
-Few years ago, I created/maintain a container called `Mara` (Inspired on Hestio AWSH/Blox). It's an open-source container that bundles a bunch of open source tools to speed up the ops experience on AWS.
+Few years ago, I created a container called `Mara` (Inspired on Hestio AWSH/Blox). It's an open-source container that bundles a bunch of open source tools to speed up the ops experience on AWS.
 
 One container. Useful the tools. Fewer setup headaches. More things done, faster.
 
