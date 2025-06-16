@@ -14,6 +14,7 @@ If I have do to it twice, I’m probably already thinking about how to script it
 
 ---
 **What I’m up to**
+
 Few years ago, I created a container called `Mara` (Inspired on Hestio AWSH/Blox). It's an open-source container that bundles a bunch of open source tools to speed up the ops experience on AWS.
 
 One container. Useful the tools. Fewer setup headaches. More things done, faster.
